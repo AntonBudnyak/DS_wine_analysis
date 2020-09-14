@@ -12,4 +12,4 @@ Analyzing data presented on Vivino.com, I noticed that there are no bottles that
 
 As it turned out, the problem of reviews distribution is exists in many spheres. It consists in the fact that customers are often afraid of choosing a product or service that no one has ever bought before. Due to this, many businesses lose large amounts of money on the unnormal distribution of customers by product. My idea is to create a model for any such business that predicts the rating based on other features, it can help to increase the demand for new, but promising products
 
-![alt text](https://ibb.co/HhVkQDy)
+![alt text](https://github.com/AntonBudnyak/DS_wine_analysis_main/blob/master/g1.png)
