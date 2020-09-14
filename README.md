@@ -16,4 +16,5 @@ As it turned out, the problem of reviews distribution is exists in many spheres.
 From the graphic below you can see main problem of the project. Number of Ratings has the exponential distribution and there a lot of wines, which has low Number of Ratings(at Vivino and in this dataset you can see rating of wines which has more than 25 ratings). There is a real problem for business, because the main reason of Vivino app is to give info about quality of wine to customers, but for huge number of wines there are no rating at all.
 My idea is to apply ML methods to predict rating of wines wich has less than 25 ratings.
 ![alt text](https://github.com/AntonBudnyak/DS_wine_analysis_main/blob/master/g1.png)
+
 As a result, I found out consumer behavior strategy and made a model which shows cross validation accuracy = 0.13 in rating prediction.
